@@ -4,7 +4,7 @@
 
 # How to Use
 
-Go to this [link](https://trioplane.github.com/bingo-card-generator)
+Go to this [link](https://trioplane.github.io/bingo-card-generator)
 
 Press that HUGE randomize button
 
